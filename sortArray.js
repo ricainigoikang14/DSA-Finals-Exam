@@ -16,4 +16,4 @@ console.log("Numbers sorted (reverse):", sortedNumbers);
 
 // sort names alphabetically
 let sortedNames = [...names].sort();
-console.log("Names sorted (alphabetical):", 
+console.log("Names sorted (alphabetical):", sortedNames);
